@@ -16,4 +16,12 @@ This mini-project is designed as a hands-on introduction to web scraping, focusi
 - pandas (for data analysis)
 - requests (for making HTTP requests)
 
+### Prerequisites
+
+Before running the project, ensure you install the necessary packages.
+
+```
+pip install beautifulsoup4 pandas requests
+```
+
 This project serves as a learning experience in web scraping, data extraction, and simple data analysis.
